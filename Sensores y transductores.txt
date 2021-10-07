@@ -1,0 +1,6 @@
+Sensores y transductores
+
+Transductor--> Dispositivo que convierte de una variable fisica a otra.
+
+Sensor --> Dispositivo que detecta la presencia de una variable fisica.
+
