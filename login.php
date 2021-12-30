@@ -239,7 +239,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
                 <hr>
                 <br>
-                <h2 class="major">Registro</h2>
+                <h2 class="major">Login</h2>
                 <div style="font-size:11px; color:#cc0000; margin-top:10px"><?php echo $error; ?></div>
                 <form action="" method="post">
                     <div class="fields">
